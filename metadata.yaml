@@ -1,4 +1,8 @@
 _repo: Le-bocche-inutili_49133
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49133-h/images/cover.jpg
 creator:
   author:
     agent_name: Vivanti, Annie
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37364
     wikipedia: http://it.wikipedia.org/wiki/Annie_Vivanti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49133#Le-bocche-inutili
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2015-06-04'
 gutenberg_type: Text
